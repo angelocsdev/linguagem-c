@@ -10,5 +10,4 @@ int main() {
     double peso = 77.56; // casas decimais com valores maiores
     char letra = 'a'; // armazena caracteres
     char nome[20] = "Ângelo"; // armazena strings quando cria arrays
-
 }

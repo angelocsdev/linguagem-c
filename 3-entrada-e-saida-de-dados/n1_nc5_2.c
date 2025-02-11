@@ -3,7 +3,7 @@
 int main() {
     int idade = 25;
     float altura = 1.75;
-    char opcao = "S";
+    char opcao = 's';
     char nome[20] = "Ângelo";
 
     printf("Idade: %d\n", idade);
